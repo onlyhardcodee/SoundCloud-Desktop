@@ -22,7 +22,7 @@ A simple Electron-based desktop application to run [SoundCloud](https://soundclo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourname/soundcloud-app.git
+git clone https://github.com/onlyhardcodee/SoundCloud-Desktop.git
 cd soundcloud-app
 ```
 ### 2. Install dependencies
